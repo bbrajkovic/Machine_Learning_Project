@@ -5,10 +5,6 @@ date: "18/9/2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ### Overview
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now
 possible to collect a large amount of data about personal activity relatively
